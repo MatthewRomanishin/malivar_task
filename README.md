@@ -24,7 +24,7 @@ All libraries required for stable work installing inside this notebook.
 It's very easy to use my work: just run cells one by one and watch the results.
 The result of the first part is a randomly generated image with a resolution of `1024x1024.`
 
-![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/first_face.png)
+![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/first_face_300x300.png)
 
 
 You can run last cell in the part "Creating a head" as many times as you like until the head you like is generated.
