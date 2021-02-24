@@ -37,14 +37,16 @@ Do not forget to click on the "Generate" button to see the result and automatica
 **The result of the second part is a modified image from the first part**
 
 For example:
-
 **Gender**
+
 ![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/gender_300x300.png)
 
 **Age**
+
 ![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/age_300x300.png)
 
 **Smile**
+
 ![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/smile_300x300.png)
 
 
