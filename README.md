@@ -52,7 +52,7 @@ And keep running cells.
 
 You will see the 3d model of the head that you created. With the mouse you can make different turns of the head.
 
-![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/3d_head.JPG)
+![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/3d_head_300x300.png)
 
 Further we will turn our head in different directions
 
