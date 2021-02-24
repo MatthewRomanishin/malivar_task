@@ -34,8 +34,6 @@ Keep running cells one by one!
 In the output of the last cell of the second part, you can change the parameters of the face using the sliders. 
 Do not forget to click on the "Generate" button to see the result and automatically save the changes for future work!
 
-Then, download dlib landmark pre-trained model in Google Drive, and put it into models directory.
-
 **The result of the second part is a modified image from the first part**
 
 For example:
@@ -52,10 +50,19 @@ For example:
 
 ![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/smile_300x300.png)
 
-We got to the last part of my job
+### We got to the last part of my job
 
 ***Please pay attention to this instruction***
+
 ![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/instruction.JPG)
+
+And keep running cells.
+
+You will see the 3d model of the head that you created. With the mouse you can make different turns of the head.
+
+![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/3d_head.JPG)
+
+
 
 
 
