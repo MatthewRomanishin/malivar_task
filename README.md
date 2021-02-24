@@ -68,7 +68,7 @@ Some rotations:
 ### **Unresolved tasks:**
 
 - I couldn't convert `.obj` to `.png`, so the dataset witn `.obj` files
-- I haven't different expressions of face (but i can adjust smiles when creating faces)
+- I haven't different expressions of face (but I can adjust smiles when creating faces)
 
 ## Thanks for attention!
 
