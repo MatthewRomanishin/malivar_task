@@ -26,6 +26,7 @@ The result of the first part is a randomly generated image with a resolution of 
 
 ![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/first_face.png)
 
+
 You can run last cell in the part "Creating a head" as many times as you like until the head you like is generated.
 
 
