@@ -1,5 +1,4 @@
 ## **Intro**
-I want to present my work to you.
 
 ### **The plan**
 - Creating a head of a person that doesn’t exist (like [here](https://thispersondoesnotexist.com))
@@ -65,15 +64,3 @@ Some rotations:
 ![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/rotations1.jpg)
 ![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/rotations2.jpg)
 ![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/rotations3.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
