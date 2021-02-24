@@ -64,7 +64,7 @@ Some rotations:
 
 ![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/rotations1.jpg)
 ![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/rotations2.jpg)
-![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/rotations2.jpg)
+![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/rotations3.jpg)
 
 
 
