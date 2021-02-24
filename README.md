@@ -60,6 +60,13 @@ Further we will turn our head in different directions
 
 **The result of the third part is a dataset with different head turns, which will be available to you after automatic downloads**
 
+Some rotations:
+
+![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/rotations1.jpg)
+![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/rotations2.jpg)
+![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/rotations2.jpg)
+
+
 
 
 
