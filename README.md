@@ -38,17 +38,9 @@ Do not forget to click on the "Generate" button to see the result and automatica
 
 For example:
 
-**Gender**
+**Original, Smile, Age, Gender**
 
-![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/gender_300x300.png)
-
-**Age**
-
-![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/age_300x300.png)
-
-**Smile**
-
-![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/smile_300x300.png)
+![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/changes.jpg)
 
 ### We got to the last part of my job
 
@@ -60,10 +52,14 @@ And keep running cells.
 
 You will see the 3d model of the head that you created. With the mouse you can make different turns of the head.
 
-```Python 
-import trimesh
+![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/3d_head.JPG)
 
-```
+Further we will turn our head in different directions
+
+Сhanging the values of these variables `start_radian`, `end_radian`, `step` you can create more varied datasets with poses.
+
+**The result of the third part is a dataset with different head turns, which will be available to you after automatic downloads**
+
 
 
 
