@@ -31,11 +31,21 @@ You can run last cell in the part "Creating a head" as many times as you like un
 
 Keep running cells one by one!
 
+In the output of the last cell of the second part, you can change the parameters of the face using the sliders. 
+Do not forget to click on the "Generate" button to see the result and automatically save the changes for future work!
+
 **The result of the second part is a modified image from the first part**
 
 For example:
 
-![Gender](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/gender_300x300.png)
+**Gender**
+![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/gender_300x300.png)
+
+**Age**
+![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/age_300x300.png)
+
+**Smile**
+![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/smile_300x300.png)
 
 
 
