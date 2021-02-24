@@ -53,7 +53,7 @@ You will see the 3d model of the head that you created. With the mouse you can m
 
 ![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/3d_head_300x300.png)
 
-Further we will turn our head in different directions
+Further we will turn our head in different directions.
 
 Сhanging the values of these variables `start_radian`, `end_radian`, `step` you can create more varied datasets with poses.
 
@@ -64,3 +64,11 @@ Some rotations:
 ![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/rotations1.jpg)
 ![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/rotations2.jpg)
 ![](https://github.com/MatthewRomanishin/malivar_task/blob/main/examples/rotations3.jpg)
+
+### **Unresolved tasks:**
+
+- I could not convert `.obj` to `.png`, so the dataset witn `.obj` files
+- I haven't different expressions of face (but i can adjust smiles when creating faces)
+
+## Thanks for attention!
+
